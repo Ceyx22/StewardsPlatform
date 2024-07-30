@@ -1,5 +1,7 @@
 % Simscape(TM) Multibody(TM) version: 24.1
 
+clc;
+clear all;
 % This is a model data file derived from a Simscape Multibody Import XML file using the smimport function.
 % The data in this file sets the block parameter values in an imported Simscape Multibody model.
 % For more information on this file, see the smimport function help page in the Simscape Multibody documentation.
@@ -8,6 +10,20 @@
 
 %%%VariableName:smiData
 %============= Bounds =============%
+d = 99.10;
+theta = deg2rad([13.32, 46.68, 133.32, 166.68, 253.32, 286.68]);
+basePoints =  [d *cos(theta); d *sin(theta); repmat(40, 1, 6)];
+
+% Define attachment points on the moving platform
+b = 75.66;
+phi = deg2rad([22.41, 37.59, 142.41, 157.59, 262.41, 277.59]);
+% vector of where the end of limb goes with respect to platform
+platformPoints = b * [cos(phi); sin(phi); zeros(1, 6)];
+
+% Length of operational length
+s_leg = 119.0; % repmat(119.0, 1, 6);
+% Length of servo arm
+a_leg = 21.0; % repmat(21.0, 1, 6);
 
 % Spherical Joint Bounds
 s_upper_bound = 20;
