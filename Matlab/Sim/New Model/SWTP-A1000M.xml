@@ -1,0 +1,1895 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="07/30/24||20:38:59" using="Simscape Multibody Link Version 7.4" from="SolidWorks 31.2.1"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="SWTP-A1000M" uid="SWTP-A1000M" version="1613">
+<AssemblyFile name="SWTP-A1000M.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="SWTP-A200-001-6" uid="SWTP-A200-001-6" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>-0.40101864773523194 0.86556751390007902 0.29996153594993175 0.85457082284991992 0.47142577976959366 -0.21786794831328726 -0.32998901936612463 0.16896926658261516 -0.92873927129647971</Rotation>
+<Translation>0.074923302114681775 0.027995000453165199 0.14151691929304486</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-6" uid="SWTP-A200-005-6" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>-0.86602540378443871 -0.49999999999999983 4.0592529337857276e-16 -0.49999999999999978 0.86602540378443882 -7.0308323220899068e-16 0 -8.1185058675714582e-16 -1</Rotation>
+<Translation>0.071178407933816162 0.0084153810567665129 0.030000000000000016</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-7" uid="SWTP-A200-002-7" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>-0.0040916116790199342 -0.49998325843359337 -0.8660254037844356 0.0070868793129037315 0.86599640654081167 -0.50000000000000533 0.99996651686717619 -0.0081832233580390063 -4.2998069324728819e-16</Rotation>
+<Translation>0.065480400783373013 0.070484618943223429 0.04000000000000814</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-11" uid="SWTP-A200-006-11" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.071908632636857345 0.49480213070711143 -0.86602540378443871 0.12454940522984254 -0.85702243007805379 -0.49999999999999994 -0.98960426141422309 -0.14381726527371472 0</Rotation>
+<Translation>0.10776909030118523 0.0041384601128686147 0.039819969086117415</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-11" uid="SWTP-A200-003-11" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.16135566283156466 0.29996153594993152 -0.94020605561905646 0.9479554890694839 -0.21786794831328715 -0.23219377218348108 -0.27448996487161764 -0.92873927129648004 -0.24919595730360738</Rotation>
+<Translation>0.10776909030119927 0.0041384601128599966 0.03981996908608032</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-12" uid="SWTP-A200-006-12" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.26468522377351295 -0.42419539402964951 -0.86602540378443649 -0.45844825558845692 0.73472797479604435 -0.50000000000000422 0.84839078805929191 0.52937044754702145 0</Rotation>
+<Translation>0.072073667523102236 0.030064745962154547 0.15033994237038528</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-12" uid="SWTP-A200-003-12" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.072792045871616279 -0.29996153594993102 0.95117001372435128 0.96550500924309646 0.21786794831328665 0.14259605262505559 -0.25000279035305401 0.92873927129648048 0.27375531185233593</Rotation>
+<Translation>0.07207366752315747 0.030064745962141107 0.1503399423703615</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-6" uid="SWTP-A200-002-6" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>-0.004091611679145752 0.49998325843359215 -0.86602540378443571 0.0070868793131223665 -0.86599640654081 -0.50000000000000533 -0.99996651686717419 -0.0081832233582911796 0</Rotation>
+<Translation>0.093781670972589895 0.02146538105676693 0.040000000000000001</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-7" uid="SWTP-A200-005-7" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>-0.86602540378443871 -0.49999999999999978 2.3166246336882005e-16 -0.49999999999999978 0.86602540378443871 -4.0125115676136035e-16 0 -4.6332492673764019e-16 -0.99999999999999989</Rotation>
+<Translation>0.042877137744594458 0.057434618943233526 0.029999999999999975</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-13" uid="SWTP-A200-006-13" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.27004735599838431 -0.4208021215705619 -0.86602540378443615 -0.46773574103883664 0.72885065449298059 -0.500000000000004 0.84160424314111681 0.54009471199676429 0</Rotation>
+<Translation>0.062073667523102387 0.047385254037843431 0.15033994237038514</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-15" uid="SWTP-A200-006-15" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.30564877158426013 -0.3957004276331168 0.86602540378443948 -0.52939920165495424 -0.68537324523729282 -0.49999999999999878 0.79140085526623616 -0.61129754316852125 3.6082248300317588e-16</Rotation>
+<Translation>-0.057468556740885857 0.091261539887131524 0.039819969086118533</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-001-8" uid="SWTP-A200-001-8" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>0.70466432418601632 0.70848473751238883 0.038698409934603682 0.64891494280830708 -0.66555510514130578 0.3687082844477963 0.28698011641846655 -0.23470359761270609 -0.92873927129636147</Rotation>
+<Translation>-0.061706032628725753 0.050887982740097301 0.14151691929307009</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-15" uid="SWTP-A200-003-15" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>0.56891387234397084 0.038698409934603287 -0.82148611608664535 0.75596101450890452 0.36870828444779796 0.54090400767809932 0.3238208615843885 -0.92873927129636069 0.18050876863645485</Rotation>
+<Translation>-0.057468556740886696 0.09126153988713101 0.039819969086118505</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-001-7" uid="SWTP-A200-001-7" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>0.020254040626836223 0.99904564805958518 -0.038698409934903817 0.92953395973663933 -0.0045627487146606416 0.36870828444786879 0.36817983586096903 -0.043439318794961108 -0.92873927129631995</Rotation>
+<Translation>0.061706032628754279 0.050887982740094304 0.14151691929305757</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-16" uid="SWTP-A200-003-16" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.8000011229199574 -0.038698409934603648 -0.59874922663444041 -0.54548406383679948 -0.36870828444779635 0.75266283094068975 -0.24989065494111143 0.92873927129636136 0.2738576756729782</Rotation>
+<Translation>-0.06207366752310451 0.047385254037843272 0.15033994237038537</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-8" uid="SWTP-A200-002-8" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>-0.0040916116791341233 0.49998325843357783 0.86602540378444393 -0.0070868793131010997 0.86599640654081866 -0.49999999999999073 -0.9999665168671743 -0.008183223358267034 -7.5211303344524366e-16</Rotation>
+<Translation>-0.065480400783368586 0.070484618943232658 0.039999999999999987</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-14" uid="SWTP-A200-006-14" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.029758556529396383 0.4991136426839945 -0.86602540378443893 -0.051543331868825176 -0.86449018787945797 -0.49999999999999944 -0.99822728536799021 0.059517113058792828 0</Rotation>
+<Translation>0.057468556740885489 0.091261539887131218 0.039819969086116784</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-13" uid="SWTP-A200-003-13" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>0.093428207639218039 0.038698409934903019 0.99487366187161352 0.92669910700837121 -0.36870828444787057 -0.072684015088570336 0.36400540529944131 0.92873927129631939 -0.070309536087014082</Rotation>
+<Translation>0.062073667523139878 0.04738525403783745 0.15033994237037157</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-16" uid="SWTP-A200-006-16" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.21752621566845759 0.45020256051798668 -0.86602540378444337 -0.37676645751596227 0.77977370851477179 0.49999999999999201 0.90040512103598802 0.43505243133692251 2.4980018054066022e-16</Rotation>
+<Translation>-0.062073667523105003 0.047385254037843307 0.15033994237038514</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-14" uid="SWTP-A200-003-14" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.15596317744450805 -0.038698409934904067 -0.98700451891058882 0.91581600462617752 0.36870828444787002 -0.15917049553875795 0.37007638799571924 -0.9287392712963195 -0.022064292420633479</Rotation>
+<Translation>0.057468556740886342 0.091261539887133855 0.039819969086109526</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-8" uid="SWTP-A200-005-8" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>0.8660254037844386 -0.50000000000000022 -3.5203455745625726e-16 -0.50000000000000022 -0.86602540378443837 -4.6551953805520603e-16 0 5.7916902464193375e-16 -0.99999999999999989</Rotation>
+<Translation>-0.042877137744594028 0.05743461894323329 0.029999999999999978</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-17" uid="SWTP-A200-003-17" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>0.55388239828206864 0.29996153595026098 0.77668356865821753 0.75288113455774741 0.21786794831333248 -0.62105036375867173 -0.3555056766077625 0.92873927129636313 -0.10516215978933453</Rotation>
+<Translation>-0.072073667523104526 0.030064745962154516 0.15033994237038556</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-9" uid="SWTP-A200-005-9" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>0.86602540378443826 -0.50000000000000056 0 -0.50000000000000056 -0.86602540378443826 0 0 0 -0.99999999999999989</Rotation>
+<Translation>-0.071178407933816537 0.0084153810567667835 0.030000000000000006</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-001-11" uid="SWTP-A200-001-11" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>-0.85730300274581661 0.38773831708564571 0.33865994588465498 0.35729167769887754 0.92173198384451227 -0.15084033613454009 -0.37064028185037795 -0.0083154928687900632 -0.92873927129642864</Rotation>
+<Translation>0.013217269485933197 -0.078882983193268183 0.14151691929307295</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-10" uid="SWTP-A200-002-10" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>0.0081832233582560948 -0.99996651686717442 6.4072655312074734e-16 -1.0025737484282553e-16 6.3992755140829882e-16 0.99999999999999989 -0.99996651686717442 -0.0081832233582560948 0</Rotation>
+<Translation>-0.028301270189223269 -0.091950000000000032 0.039999999999999085</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A300-001-V2-1" uid="SWTP-A300-001-V2-1" entityUid="SWTP-A300-001-V2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-1.4480728659340777e-15 -1.9171850229820552e-15 0.14533994237038522</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-001-9" uid="SWTP-A200-001-9" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>0.95031133440486026 -0.083255298041713194 -0.29996153595026048 -0.15321283479903036 -0.96387726622769987 -0.21786794831333209 -0.27098744427463595 0.25300033793930238 -0.92873927129636336</Rotation>
+<Translation>-0.074923302114631996 0.027995000453178251 0.14151691929307006</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-001-10" uid="SWTP-A200-001-10" entityUid="SWTP-A200-001*:*Default">
+<Transform>
+<Rotation>0.92753191249082301 0.15809488405456629 -0.33865994588508602 0.11233052769953927 -0.98215530622278013 -0.15084033613453685 -0.35646374830809824 0.10186737502365643 -0.9287392712962721</Rotation>
+<Translation>-0.013217269485878211 -0.078882983193261938 0.1415169192930818</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-22" uid="SWTP-A200-006-22" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.47853241651637318 -0.87806988693554477 3.5466562241979982e-16 0 3.8682335720568022e-16 0.99999999999999989 -0.87806988693554477 0.47853241651637318 -1.5756958489148054e-16</Rotation>
+<Translation>0.050300533560299787 -0.09540000000000004 0.039819969086117769</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-10" uid="SWTP-A200-005-10" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>5.5511151231257837e-16 1 0 1 -5.5511151231257837e-16 0 0 0 -1</Rotation>
+<Translation>-0.028301270189221961 -0.06585000000000002 0.030000000000000002</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-18" uid="SWTP-A200-006-18" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.44708210711791257 -0.22386958144198227 0.86602540378443826 0.77436892468317386 -0.3877534893266909 -0.500000000000001 0.44773916288396359 0.89416421423582348 0</Rotation>
+<Translation>-0.10776909030118564 0.004138460112868881 0.039819969086117901</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-19" uid="SWTP-A200-006-19" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.65228194918230376 -0.75797642362472895 3.4702327815097952e-16 2.4980018054066022e-16 -2.4286128663675309e-16 -1 0.75797642362472895 0.65228194918230364 0</Rotation>
+<Translation>-0.010000000000000281 -0.077450000000001462 0.15033994237038531</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-20" uid="SWTP-A200-006-20" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.51112851513601354 0.8595042995906732 3.3306690738754696e-16 3.1754678916832992e-16 -3.8729613778774703e-16 1 0.85950429959067343 0.51112851513601332 0</Rotation>
+<Translation>-0.050300533560300516 -0.095400000000000026 0.039819969086119046</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-11" uid="SWTP-A200-002-11" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>0.0081832233591275297 0.99996651686716742 3.883915214363151e-16 -3.5296396053920901e-16 -3.8551604679450436e-16 1 0.99996651686716742 -0.0081832233591275297 3.4979737828058592e-16</Rotation>
+<Translation>0.028301270189257308 -0.091950000000000018 0.039999999999974986</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-21" uid="SWTP-A200-006-21" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>0.62597207955190559 -0.77984546906516217 -1.2322720019950287e-16 0 1.8735013540549517e-16 -1.0000000000000002 0.77984546906516228 0.62597207955190559 0</Rotation>
+<Translation>0.0099999999999996828 -0.077450000000001448 0.15033994237038514</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-21" uid="SWTP-A200-003-21" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.94079238817686495 -0.33865994588465453 -0.014802817362713966 -0.069814008794612956 0.15084033613453998 0.98608985248345637 -0.33171627413272431 0.92873927129642897 -0.16555264850578935</Rotation>
+<Translation>0.010000000000028911 -0.077449999999990138 0.15033994237038903</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-20" uid="SWTP-A200-003-20" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.90918097218296157 -0.33865994588508652 -0.24227959235881918 0.30662588521294742 -0.15084033613453629 -0.93980197888289041 0.28172775216123419 -0.9287392712962721 0.24098306914438589</Rotation>
+<Translation>-0.050300533560291225 -0.095399999999996238 0.039819969086138982</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-19" uid="SWTP-A200-003-19" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.94037712336700441 0.33865994588508569 -0.031627628762028098 0.021081904614609188 0.15084033613453768 0.98833331740493324 0.33947962994238456 0.92873927129627221 -0.14898639805784664</Rotation>
+<Translation>-0.0099999999999659649 -0.077449999999986321 0.15033994237039539</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-006-17" uid="SWTP-A200-006-17" entityUid="SWTP-A200-006*:*Default">
+<Transform>
+<Rotation>-0.27566202649544136 0.41714559466500217 -0.86602540378444337 -0.47746063560751439 0.72251736411333178 0.49999999999999167 0.83429118933001767 0.55132405299089293 8.0491169285323849e-16</Rotation>
+<Translation>-0.072073667523104845 0.030064745962154433 0.15033994237038542</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-002-9" uid="SWTP-A200-002-9" entityUid="SWTP-A200-002*:*Default">
+<Transform>
+<Rotation>-0.0040916116791383499 -0.49998325843357894 0.86602540378444326 -0.0070868793131102694 -0.86599640654081789 -0.49999999999999178 0.99996651686717408 -0.0081832233582770798 -1.4319671870665174e-16</Rotation>
+<Translation>-0.093781670972590575 0.021465381056765862 0.039999999999999994</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-18" uid="SWTP-A200-003-18" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.39853025302359391 -0.29996153595026076 -0.86671605175819288 0.91316144198106908 -0.21786794831333145 -0.34448474273441199 -0.085497475424743993 -0.92873927129636336 0.36074027727423968</Rotation>
+<Translation>-0.10776909030118552 0.004138460112867998 0.039819969086118331</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-003-22" uid="SWTP-A200-003-22" entityUid="SWTP-A200-003*:*Default">
+<Transform>
+<Rotation>-0.93529264396396394 0.33865994588465426 0.10265043205121316 -0.16165374217676656 -0.15084033613454018 -0.97525138330333383 -0.31479475501848048 -0.92873927129642897 0.19582550437732274</Rotation>
+<Translation>0.050300533560302792 -0.095400000000000415 0.039819969086113988</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A200-005-11" uid="SWTP-A200-005-11" entityUid="SWTP-A200-005*:*Default">
+<Transform>
+<Rotation>5.5511151231257827e-16 1 0 0.99999999999999989 -5.5511151231257827e-16 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.028301270189221923 -0.065850000000000034 0.030000000000000006</Translation>
+</Transform>
+</Instance>
+<Instance name="SWTP-A100-001-V2-1" uid="SWTP-A100-001-V2-1" entityUid="SWTP-A100-001-V2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric72">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-20</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident82">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-20</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric116">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-11</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-11</Uid>
+</InstancePath>
+<Position>-0.021599999999999994 0 -0.010000000000000002</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident108">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-11</Uid>
+</InstancePath>
+<Position>0 0 0.0010000000000000009</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-11</Uid>
+</InstancePath>
+<Position>-0.025099999999999997 0 -0.010000000000000002</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident111">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-11</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-22</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0038000000000000048 0.00244999999999998</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric111">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-21</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999807 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-11</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>-1.1102230246251565e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident109">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-21</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999807 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>-1.1102230246251565e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric113">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-22</Uid>
+</InstancePath>
+<Position>0 -0.009499999999999998 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-11</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>-1.1102230246251565e-16 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident110">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-22</Uid>
+</InstancePath>
+<Position>0 -0.009499999999999998 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-11</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>1.1102230246251565e-16 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric107">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-10</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-10</Uid>
+</InstancePath>
+<Position>-0.021600000000000008 0 -0.0099999999999999985</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident101">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-10</Uid>
+</InstancePath>
+<Position>0 0 0.0010000000000000009</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-10</Uid>
+</InstancePath>
+<Position>-0.025099999999999997 0 -0.0099999999999999985</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident104">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-10</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-20</Uid>
+</InstancePath>
+<Position>-0.0037499999999999964 0.0038000000000000013 0.0024499999999999938</Position>
+<Axis>1.847910737345649e-16 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric102">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-19</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident102">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-19</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric104">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-20</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident103">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-20</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-10</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric98">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-9</Uid>
+</InstancePath>
+<Position>0 0 0.0029999999999999888</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-9</Uid>
+</InstancePath>
+<Position>-0.021599999999999994 0 -0.009999999999999995</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident95">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-9</Uid>
+</InstancePath>
+<Position>0 0 0.0010000000000000009</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-9</Uid>
+</InstancePath>
+<Position>-0.025099999999999997 0 -0.009999999999999995</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident98">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-9</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-18</Uid>
+</InstancePath>
+<Position>-0.0037499999999999964 0.0038000000000000048 0.0024500000000000077</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric93">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-17</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-9</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident96">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-17</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-9</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric95">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-18</Uid>
+</InstancePath>
+<Position>0 -0.009500000000000005 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-9</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident97">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-18</Uid>
+</InstancePath>
+<Position>0 -0.009500000000000005 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-9</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000001</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric86">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-8</Uid>
+</InstancePath>
+<Position>-0.021600000000000008 0 -0.009999999999999995</Position>
+<Axis>-1 1.110223024625157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-8</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident89">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-8</Uid>
+</InstancePath>
+<Position>-0.025100000000000011 0 -0.009999999999999995</Position>
+<Axis>-1 1.110223024625157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-8</Uid>
+</InstancePath>
+<Position>0 0 0.0010000000000000009</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident90">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-15</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0037999999999999978 0.0024499999999999938</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-8</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric85">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-8</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000003</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-16</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric88">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-8</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000003</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-15</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000015 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident88">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-8</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-16</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000084 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident91">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-8</Uid>
+</InstancePath>
+<Position>0 0 0.10000000000000003</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-15</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000015 0</Position>
+<Axis>0 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric80">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-7</Uid>
+</InstancePath>
+<Position>0 0 0.0029999999999999888</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-7</Uid>
+</InstancePath>
+<Position>-0.021600000000000008 0 -0.009999999999999995</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident83">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-7</Uid>
+</InstancePath>
+<Position>0 0 0.00099999999999998701</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-7</Uid>
+</InstancePath>
+<Position>-0.025099999999999997 0 -0.009999999999999995</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident86">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-7</Uid>
+</InstancePath>
+<Position>0 0 -0.00099999999999998701</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-14</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0037999999999999839 0.00244999999999998</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric75">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-13</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-7</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999978</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident84">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-13</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-7</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric77">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-14</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000015 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-7</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999978</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident85">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-14</Uid>
+</InstancePath>
+<Position>0 -0.0095000000000000015 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-7</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999978</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric68">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-6</Uid>
+</InstancePath>
+<Position>-0.021600000000000008 0 -0.010000000000000002</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-6</Uid>
+</InstancePath>
+<Position>0 0 0.0030000000000000027</Position>
+<Axis>0 -1.1050431986751136e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident78">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-6</Uid>
+</InstancePath>
+<Position>-0.025100000000000011 0 -0.010000000000000002</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-6</Uid>
+</InstancePath>
+<Position>0 0 0.00099999999999998701</Position>
+<Axis>0 1.1050431986751136e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident79">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-11</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0037999999999999978 0.0024499999999999938</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-002-6</Uid>
+</InstancePath>
+<Position>0 0 -0.0010000000000000009</Position>
+<Axis>0 -1.1050431986751136e-16 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric63">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-6</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999964</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-11</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident72">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-6</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999964</Position>
+<Axis>0 0 0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-11</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident73">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-001-6</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-003-12</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -0.99999999999999978 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric64">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-001-6</Uid>
+</InstancePath>
+<Position>0 0 0.099999999999999964</Position>
+<Axis>0 0 -0.99999999999999978</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-003-12</Uid>
+</InstancePath>
+<Position>0 -0.0094999999999999946 0</Position>
+<Axis>0 -0.99999999999999978 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric155">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-14</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-14</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric156">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-7</Uid>
+</InstancePath>
+<Position>0 0.021999999999999988 -0.0029999999999999888</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-14</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric157">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-13</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-13</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric158">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-12</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-12</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric159">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-11</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric160">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-11</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-6</Uid>
+</InstancePath>
+<Position>0 0.021999999999999995 -0.0030000000000000027</Position>
+<Axis>0 1.1050431986751136e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric161">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-22</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-22</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric162">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-11</Uid>
+</InstancePath>
+<Position>0 0.022000000000000006 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-22</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric163">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-21</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-21</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric164">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-19</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-19</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric165">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-20</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-20</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric166">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-10</Uid>
+</InstancePath>
+<Position>0 0.021999999999999995 -0.0030000000000000027</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-20</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>1.847910737345649e-16 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric167">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-18</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-18</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric169">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-17</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-17</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Tangent name="Tangent3">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-16</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-16</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Tangent>
+<Concentric name="Concentric170">
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-006-15</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="sphere">
+<InstancePath>
+<Uid>SWTP-A200-003-15</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric171">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-15</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-8</Uid>
+</InstancePath>
+<Position>0 0.022000000000000009 -0.0030000000000000027</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident112">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A1000M</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel1">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189221967 -0.075000000000000011 0.01</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A1000M</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 1 0</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Coincident name="Coincident117">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-11</Uid>
+</InstancePath>
+<Position>-0.0091499999999999915 0.0099999999999999985 0.019999999999999997</Position>
+<Axis>0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189221967 -0.075000000000000011 0.01</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident118">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-10</Uid>
+</InstancePath>
+<Position>-0.0091500000000000054 0.0099999999999999985 0.019999999999999997</Position>
+<Axis>1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189221967 -0.075000000000000011 0.01</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric172">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-10</Uid>
+</InstancePath>
+<Position>0.058502757952979996 -0.005000000000000001 0.025000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.033301270189221965 -0.070000000000000007 0.0050000000000000001</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric173">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-10</Uid>
+</InstancePath>
+<Position>0.058502757952980003 0.0049999999999999975 0.025000000000000001</Position>
+<Axis>-1 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.023301270189221967 -0.070000000000000007 0.0049999999999999992</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric174">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-11</Uid>
+</InstancePath>
+<Position>0.058502757952979982 -0.0050000000000000044 0.024999999999999994</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.023301270189221918 -0.070000000000000034 0.0049999999999999992</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric175">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-11</Uid>
+</InstancePath>
+<Position>0.058502757952979989 0.005000000000000001 0.024999999999999994</Position>
+<Axis>-0.99999999999999989 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.033301270189221924 -0.070000000000000034 0.0050000000000000001</Position>
+<Axis>-3.204937810639273e-16 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric177">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-21</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>0.010000000000000741 -0.069999999999999438 0.0050000000000000044</Position>
+<Axis>1.0576294775109636e-14 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident125">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-19</Uid>
+</InstancePath>
+<Position>-0.0037500000000000172 0.0037999999999999839 -0.0024499999999999938</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.04330127018922101 -0.075000000000000011 0.010000000000000009</Position>
+<Axis>1.0576294775109636e-14 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric179">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-19</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.0099999999999992595 -0.06999999999999966 0.0050000000000000044</Position>
+<Axis>1.0576294775109636e-14 -1 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident126">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-21</Uid>
+</InstancePath>
+<Position>-0.0037499999999999895 0.0038000000000000117 -0.0024499999999999938</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.04330127018922101 -0.075000000000000011 0.010000000000000009</Position>
+<Axis>1.0576294775109636e-14 -1 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident127">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-9</Uid>
+</InstancePath>
+<Position>-0.0091500000000000054 0.0099999999999999985 0.019999999999999997</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189221919 0.075000000000000053 0.01</Position>
+<Axis>-0.8660254037844386 0.50000000000000022 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident128">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-8</Uid>
+</InstancePath>
+<Position>-0.0091500000000000054 0.010000000000000005 0.019999999999999993</Position>
+<Axis>1 -1.110223024625157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189221919 0.075000000000000053 0.01</Position>
+<Axis>-0.8660254037844386 0.50000000000000022 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric180">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-8</Uid>
+</InstancePath>
+<Position>0.058502757952980003 0.0049999999999999975 0.024999999999999994</Position>
+<Axis>-1 1.110223024625157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.048971143170300241 0.055179491924310806 0.0049999999999999992</Position>
+<Axis>-0.86602540378444315 0.49999999999999223 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric181">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-8</Uid>
+</InstancePath>
+<Position>0.058502757952980003 -0.0050000000000000079 0.024999999999999994</Position>
+<Axis>-1 1.110223024625157e-16 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.04397114317030032 0.063839745962155234 0.0050000000000000001</Position>
+<Axis>-0.86602540378444315 0.49999999999999223 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric182">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-9</Uid>
+</InstancePath>
+<Position>0.058502757952979989 -0.005000000000000001 0.024999999999999994</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.072272413359521837 0.014820508075688132 0.0049999999999999992</Position>
+<Axis>-0.86602540378444315 0.49999999999999223 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric183">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-9</Uid>
+</InstancePath>
+<Position>0.058502757952979989 0.004999999999999994 0.024999999999999994</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.077272413359521758 0.0061602540378436939 0.0050000000000000001</Position>
+<Axis>-0.86602540378444315 0.49999999999999223 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident129">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-7</Uid>
+</InstancePath>
+<Position>-0.0091500000000000192 0.010000000000000002 0.019999999999999997</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.086602540378443879 0 0.01</Position>
+<Axis>0.86602540378443882 0.50000000000000011 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric184">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-7</Uid>
+</InstancePath>
+<Position>0.058502757952979989 -0.004999999999999994 0.024999999999999994</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.048971143170299533 0.055179491924311472 0.0049999999999999992</Position>
+<Axis>0.8660254037844366 0.50000000000000389 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric185">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-7</Uid>
+</InstancePath>
+<Position>0.058502757952979989 0.0049999999999999975 0.024999999999999998</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.043971143170299494 0.063839745962155844 0.0050000000000000001</Position>
+<Axis>0.8660254037844366 0.50000000000000389 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident130">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-005-6</Uid>
+</InstancePath>
+<Position>-0.0091499999999999915 0.010000000000000002 0.019999999999999997</Position>
+<Axis>1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.086602540378443879 0 0.01</Position>
+<Axis>0.86602540378443882 0.50000000000000011 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric186">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-6</Uid>
+</InstancePath>
+<Position>0.058502757952979996 -0.0050000000000000044 0.025000000000000001</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.077272413359521674 0.0061602540378447208 0.0050000000000000001</Position>
+<Axis>0.8660254037844366 0.50000000000000389 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric187">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-005-6</Uid>
+</InstancePath>
+<Position>0.058502757952980003 0.005000000000000001 0.025000000000000001</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0.072272413359521628 0.014820508075689083 0.0049999999999999992</Position>
+<Axis>0.8660254037844366 0.50000000000000389 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident131">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-12</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0037999999999999978 0.0024500000000000077</Position>
+<Axis>0 1.2571528394808634e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>0.086602540378443421 0 0.010000000000000009</Position>
+<Axis>0.86602540378443815 0.50000000000000111 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident132">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-13</Uid>
+</InstancePath>
+<Position>-0.0037499999999999895 0.0037999999999999978 0.0024500000000000077</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>0.086602540378443421 0 0.010000000000000009</Position>
+<Axis>0.86602540378443815 0.50000000000000111 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric188">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-13</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>0.05562177826490966 0.043660254037845014 0.0050000000000000044</Position>
+<Axis>0.86602540378443105 0.50000000000001321 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric189">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-12</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 1.2571528394808634e-16 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>0.065621778264909933 0.026339745962156394 0.0050000000000000044</Position>
+<Axis>0.86602540378443105 0.50000000000001321 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric190">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-002-9</Uid>
+</InstancePath>
+<Position>0 0.021999999999999992 -0.0029999999999999888</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-18</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident133">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-17</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0038000000000000117 -0.0024499999999999938</Position>
+<Axis>0 0 -1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189222044 0.074999999999999414 0.010000000000000009</Position>
+<Axis>-0.86602540378444159 0.49999999999999489 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric191">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-17</Uid>
+</InstancePath>
+<Position>0 0 -0.0024499999999999938</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.065621778264910835 0.026339745962154083 0.0050000000000000044</Position>
+<Axis>-0.86602540378444859 0.49999999999998285 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident134">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A200-006-16</Uid>
+</InstancePath>
+<Position>-0.0037500000000000033 0.0037999999999999978 -0.0024500000000000077</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.043301270189222044 0.074999999999999414 0.010000000000000009</Position>
+<Axis>-0.86602540378444159 0.49999999999999489 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Concentric name="Concentric193">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A200-006-16</Uid>
+</InstancePath>
+<Position>0 0 -0.0024500000000000077</Position>
+<Axis>0 0 1.0000000000000002</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A300-001-V2-1</Uid>
+</InstancePath>
+<Position>-0.05562177826491118 0.043660254037843065 0.0050000000000000044</Position>
+<Axis>-0.86602540378444859 0.49999999999998285 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Concentric name="Concentric195">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>SWTP-A100-001-V2-1</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+<Axis>0 0 1</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="point">
+<InstancePath>
+<Uid>SWTP-A1000M</Uid>
+</InstancePath>
+<Position>0 0 0</Position>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+</Assemblies>
+<Parts>
+<Part name="SWTP-A100-001-V2" uid="SWTP-A100-001-V2*:*Default" version="127">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A100-001-V2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.18749260806964788</Mass>
+<CenterOfMass>0 0 0.0050000000000000001</CenterOfMass>
+<Inertia>0.0003047331819639926 0.00030473318196399282 0.00060633680848542159 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A100-001-V2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="1" b="1" a="1"/>
+<Diffuse r="0" g="1" b="1" a="1"/>
+<Specular r="0" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A200-001" uid="SWTP-A200-001*:*Default" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A200-001.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00070685834705770363</Mass>
+<CenterOfMass>0 0 0.049999999999999996</CenterOfMass>
+<Inertia>5.8944623036830624e-07 5.8944623036830624e-07 7.9521564043991718e-10 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A200-001_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="0" a="1"/>
+<Diffuse r="1" g="0" b="0" a="1"/>
+<Specular r="0.5" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A200-002" uid="SWTP-A200-002*:*Default" version="186">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A200-002.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0011915245083321949</Mass>
+<CenterOfMass>0 0.0043576435089248636 0</CenterOfMass>
+<Inertia>7.3926645398065456e-08 1.8588844742826396e-08 8.7371249906429265e-08 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A200-002_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.90980392156862744" g="0.44313725490196076" b="0.031372549019607843" a="1"/>
+<Diffuse r="0.90980392156862744" g="0.44313725490196076" b="0.031372549019607843" a="1"/>
+<Specular r="0.45490196078431372" g="0.22156862745098038" b="0.015686274509803921" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A200-003" uid="SWTP-A200-003*:*Default" version="197">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A200-003.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00032595437963255384</Mass>
+<CenterOfMass>-2.8973866419619037e-09 -0.0054020682110365106 -5.4376207426573949e-07</CenterOfMass>
+<Inertia>1.0314071209583804e-08 2.3502609510394968e-09 1.1671295485236987e-08 9.5778347682199815e-13 1.1732184981557288e-15 -2.0385165314884082e-15</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A200-003_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="1" a="1"/>
+<Diffuse r="0" g="0" b="1" a="1"/>
+<Specular r="0" g="0" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A200-005" uid="SWTP-A200-005*:*Default" version="105">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A200-005.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.032575613845815053</Mass>
+<CenterOfMass>-0.00032958253741535032 0 -8.0926126809230303e-05</CenterOfMass>
+<Inertia>5.6443259005820199e-06 8.9039756634515542e-06 5.4192967247653573e-06 -8.28397315088868e-12 -5.5922760256052938e-08 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A200-005_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A200-006" uid="SWTP-A200-006*:*Default" version="183">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A200-006.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.00015086988884421167</Mass>
+<CenterOfMass>0 0 0</CenterOfMass>
+<Inertia>8.0440651450424109e-10 8.0451266437085824e-10 1.1050306610923293e-09 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A200-006_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="1" g="0" b="1" a="1"/>
+<Diffuse r="1" g="0" b="1" a="1"/>
+<Specular r="0.5" g="0" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="SWTP-A300-001-V2" uid="SWTP-A300-001-V2*:*Default" version="122">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="SWTP-A300-001-V2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.19464365834737943</Mass>
+<CenterOfMass>0 0 0.0050000000000000001</CenterOfMass>
+<Inertia>0.00030551753733008906 0.00030551753733008954 0.00060778771796067912 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="SWTP-A300-001-V2_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0" g="1" b="1" a="1"/>
+<Diffuse r="0" g="1" b="1" a="1"/>
+<Specular r="0" g="0.5" b="0.5" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
